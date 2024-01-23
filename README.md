@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julie!
+- - 🌱 I’m currently learning CSS, HTML and Javascript.
 - 👀 I’m interested in art, videogames, watching animated movies.
-- 🌱 I’m currently learning CSS, HTML and Javascript.
 - 💞️ I’m looking to collaborate on creating websites or a small game. 
 - 📫 How to reach me: julie.habbestad@hotmail.com
 
